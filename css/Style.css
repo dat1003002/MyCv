@@ -1,0 +1,34 @@
+.container{
+    background-color: white;
+    margin-top: 30px;
+}
+#logo{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 1px solid goldenrod;
+    margin-left: 22%;
+    margin-top: 30px;
+}
+#ten{
+    margin-left: 14%;
+    
+}
+#hhh{
+     background-color: #029c7c; 
+    color: white;
+}
+#a1{
+    margin-left: 35%;
+}
+#hocvan{  
+    border-radius: 50%;
+    margin-top: 15px;
+    
+}
+#gt{
+    background-color: #dbdbdb;
+}
+.hahah{
+    background-color: red;
+}
